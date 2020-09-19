@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First</string>
+    <string name="email_successfully">Успешно</string>
+    <string name="errors_email">Вы ввели не правильные данные</string>
+</resources>
